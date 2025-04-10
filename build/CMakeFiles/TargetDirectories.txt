@@ -1,0 +1,5 @@
+/Users/kiwihoward/Downloads/PyramidHNSWFaiss/build/CMakeFiles/pyramid_lib.dir
+/Users/kiwihoward/Downloads/PyramidHNSWFaiss/build/CMakeFiles/pyramid_search.dir
+/Users/kiwihoward/Downloads/PyramidHNSWFaiss/build/CMakeFiles/test.dir
+/Users/kiwihoward/Downloads/PyramidHNSWFaiss/build/CMakeFiles/edit_cache.dir
+/Users/kiwihoward/Downloads/PyramidHNSWFaiss/build/CMakeFiles/rebuild_cache.dir
